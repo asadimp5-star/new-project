@@ -10,3 +10,14 @@ body{
 .container h1{
     color: #e3d27e;
 }
+.btn{
+    background: #da21da;
+    color: #fff;
+    padding: 5px;
+    align-items: center;
+    border-radius: 10px;
+    justify-items: center;
+    width: 80px;
+    height: 50px;
+    box-shadow: -5px 10px 10px  rgba(0, 0, 0, 0.3);
+}
